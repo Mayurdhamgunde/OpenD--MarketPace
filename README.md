@@ -13,9 +13,6 @@ https://mayurdhamgunde.github.io/vid/OpenD-screenrecord.mp4
 ***
 
 
-
-> This project is built during my learning process.
-
 Copyright 2024 London App Brewery LTD (www.appbrewery.com)
 
 The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
