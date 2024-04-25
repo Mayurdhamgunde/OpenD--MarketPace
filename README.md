@@ -1,14 +1,12 @@
 ## OpenD
 is a NFT marketplace built by motoko language from Dfinity on Internet Computer blockchain platform. For the frontend I used React.
 In this project, user can mint, sell, and buy NFTs using DHAM tokens.
-> DHAM Token is a crypto token project that I have built, you can check it from here: [Click Me to Go to DToken Repo](https://github.com/hamza-ouaddi/Crypto-DToken) .
 
 ## Project video
 
 
 
 
-https://github.com/hamza-ouaddi/OpenD-Marketplace/assets/80076862/15e5ebea-f960-4448-940a-01345365864b
 
 
 
