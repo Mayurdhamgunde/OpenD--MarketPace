@@ -3,7 +3,15 @@ is a NFT marketplace built by motoko language from Dfinity on Internet Computer 
 In this project, user can mint, sell, and buy NFTs using DHAM tokens.
 > DHAM Token is a crypto token project that I have built, you can check it from here: [Click Me to Go to DToken Repo](https://github.com/Mayurdhamgunde/Cryto-DToken) .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nJzoEkPkCxc?si=rRfvf1MOgK9Ip_Pi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Project video 
+
+https://mayurdhamgunde.github.io/vid/OpenD-screenrecord.mp4
+
+
+
+
+***
+
 
 
 > This project is built during my learning process.
