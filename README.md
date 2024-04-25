@@ -3,9 +3,6 @@ is a NFT marketplace built by motoko language from Dfinity on Internet Computer 
 In this project, user can mint, sell, and buy NFTs using DHAM tokens.
 > DHAM Token is a crypto token project that I have built, you can check it from here: [Click Me to Go to DToken Repo](https://github.com/Mayurdhamgunde/Cryto-DToken) .
 ## Project video
-
-
-
 https://mayurdhamgunde.github.io/vid/OpenD-screenrecord.mp4
 
 
